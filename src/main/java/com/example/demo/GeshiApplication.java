@@ -8,7 +8,7 @@ public class GeshiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GeshiApplication.class, args);
-		int a,b;
+		int a,b,c,d,e,f,g,h,i;
 	}
 
 }
